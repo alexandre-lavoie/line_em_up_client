@@ -20,7 +20,9 @@ pip3 install -r requirements.txt
 
 To take part of the tournament, you have to add abit of code on top of the assignment. 
 
-You must include the following methods in your code. To make your life easier, an `example.py` can be found in this repo that you can base yourself off of or simply copy.
+You **MUST** copy the `client.py` to your repository. You should put the file at the same depth as your `main.py` (or equivalent). You should also be able to just copy paste the contents directly into your code (though it could lead to some issues).
+
+You **MUST** include the following methods in your code. To make your life easier, an `example.py` can be found in this repo that you can base yourself off of or simply copy.
 
 ## Methods
 
